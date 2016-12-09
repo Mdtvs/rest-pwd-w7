@@ -1,4 +1,4 @@
-total commander
+﻿total commander
 firefox
 chrome
 Запись дисков
@@ -14,6 +14,7 @@ Winrar
 The bat! Настройка отправки синоптики и WAREP и АВИА шторма(если нужно) в лучае оказа АМК  
 TeamViewer импорт настроек ini
 Adobe reader
+adobe flash
 XPS VIEWER
 DJVU READER
 AWS client + параметры подключения xml
