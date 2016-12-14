@@ -11,23 +11,23 @@ set MASK=255.255.255.0
 set GATEWAY=10.9.10.254
 set GWMETRIC=1
 set DNS1=90.188.32.22
-set MAC=001122334455
+rem set MAC=001122334455
 goto smena
 
 :home
 set IFACE="local"
 set IP=10.9.10.115
 set MASK=255.255.255.0
-set GATEWAY=10.9.10.254
+set GATEWAY=
 set GWMETRIC=1
-set DNS1=192.168.1.10
-set MAC=221133004455
+set DNS1=
+rem set MAC=221133004455
 goto smena
 
 :smena
 echo Меняем MAC адрес на %MAC%
 echo _____
-macshift -i "local" %MAC%
+rem macshift -i "local" %MAC%
 
 echo _____
 echo seting ip address-%IP%
