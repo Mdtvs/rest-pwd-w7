@@ -17,6 +17,7 @@ Adobe reader
 adobe flash
 XPS VIEWER
 DJVU READER
+wget
 AWS client + параметры подключения xml
 Putty
 Word
