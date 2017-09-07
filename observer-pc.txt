@@ -31,6 +31,8 @@ Srvicepack 3 office2007
 MSE
 IE11
 KB3020369X86 THEN KB31225574X86
+Windows6.1-KB3102810-x64.msu with swithed off the internet connection and servise wuauserv for avoid endless searching updates
+Windows6.1-KB3102810-x86.msu see before
 http://www.dslreports.com/forum/r30348398-WIN7-Win-7-updates-to-avoid-or-be-careful-with
 https://geektimes.ru/post/275974/
 Planeta terminal
